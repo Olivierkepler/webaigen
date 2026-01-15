@@ -10,3 +10,1691 @@
 [00:12:38.067] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:12:38.490] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:12:38.911] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:22:15.327] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about/me. Falling back to browser navigation. {}
+[00:40:36.547] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about. Falling back to browser navigation. {}
+[00:40:36.547] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/about. Falling back to browser navigation. {}
+[00:51:55.380] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.382] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.383] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.383] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.407] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.408] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.408] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.408] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.409] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.409] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.410] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.410] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.410] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.410] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.411] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.411] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.411] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.412] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.414] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.415] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.417] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.417] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.418] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.418] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.419] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.419] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.420] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.420] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.421] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.421] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.422] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.423] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.430] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.431] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.435] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.437] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.441] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.441] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.441] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.441] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.442] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.442] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.442] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.473] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.474] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.497] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.498] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.499] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.500] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.501] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.503] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.504] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.504] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.505] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.506] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.508] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.510] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.510] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.510] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.510] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.511] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.511] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.511] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.512] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.512] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.512] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.512] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.513] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.513] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.513] Server  ERROR   ⨯ ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.514] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.514] Server  ERROR   ⨯ ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:55.517] Server  LOG     ✓ Compiled in 293ms
+[00:51:56.327] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:51:56.327] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:51:56.327] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:51:56.327] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:53:14.326] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:53:14.326] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:53:14.327] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:53:14.327] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:54:45.110] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:54:45.110] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:54:45.110] Browser ERROR   ./lib/utils.ts:1:1
+Module not found: Can't resolve 'clsx'
+> 1 | import { type ClassValue, clsx } from "clsx";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | import { twMerge } from "tailwind-merge";
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:54:45.110] Browser ERROR   ./lib/utils.ts:2:1
+Module not found: Can't resolve 'tailwind-merge'
+  1 | import { type ClassValue, clsx } from "clsx";
+> 2 | import { twMerge } from "tailwind-merge";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export function cn(...inputs: ClassValue[]) {
+  5 |   return twMerge(clsx(inputs));
+
+Import trace:
+  Server Component:
+    ./lib/utils.ts
+    ./components/ui/button.tsx
+    ./components/sections/hero.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:56:17.217] Server  LOG     ✓ Compiled in 32ms
+[01:06:40.130] Server  LOG     ✓ Compiled in 160ms
+[01:06:56.108] Server  LOG     ✓ Compiled in 111ms
+[01:24:35.542] Server  LOG     ✓ Compiled in 107ms
