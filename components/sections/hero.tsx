@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 
 export function Hero() {
   return (
-    <section className="relative overflow-hidden bg-white">
+    <section className="   ">
       <Container className="py-16 sm:py-20">
         <div className="max-w-full">
           <Badge className="mb-4" variant="secondary">

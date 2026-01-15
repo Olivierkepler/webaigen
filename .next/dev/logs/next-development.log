@@ -1698,3 +1698,44 @@ https://nextjs.org/docs/messages/module-not-found
 [01:06:40.130] Server  LOG     ✓ Compiled in 160ms
 [01:06:56.108] Server  LOG     ✓ Compiled in 111ms
 [01:24:35.542] Server  LOG     ✓ Compiled in 107ms
+[01:33:47.670] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
+[01:33:47.670] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
+[01:33:47.670] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
+[01:33:47.670] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
+[01:33:47.670] Browser ERROR   unhandledRejection: undefined
+[01:35:21.330] Server  LOG     ✓ Compiled in 145ms
+[01:37:21.756] Server  LOG     ✓ Compiled in 28ms
+[01:37:42.896] Server  LOG     ✓ Compiled in 35ms
+[01:44:44.869] Server  LOG     ✓ Compiled in 123ms
+[01:45:21.270] Server  LOG     ✓ Compiled in 28ms
+[01:45:27.852] Server  LOG     ✓ Compiled in 40ms
+[01:46:09.031] Server  LOG     ✓ Compiled in 39ms
+[01:46:42.753] Server  LOG     ✓ Compiled in 43ms
+[01:51:00.025] Server  LOG     ✓ Compiled in 205ms
+[01:54:47.346] Server  LOG     ✓ Compiled in 68ms
+[01:55:43.909] Server  LOG     ✓ Compiled in 54ms
+[01:55:52.192] Server  LOG     ✓ Compiled in 30ms
+[01:55:59.686] Server  LOG     ✓ Compiled in 23ms
+[01:56:04.582] Server  LOG     ✓ Compiled in 29ms
+[01:56:09.899] Server  LOG     ✓ Compiled in 44ms
+[01:56:20.082] Server  LOG     ✓ Compiled in 122ms
+[01:56:32.469] Server  LOG     ✓ Compiled in 34ms
+[01:56:47.305] Server  LOG     ✓ Compiled in 28ms
+[01:56:58.686] Server  LOG     ✓ Compiled in 28ms
+[01:58:50.866] Server  LOG     ✓ Compiled in 122ms
+[01:59:07.478] Server  LOG     ✓ Compiled in 32ms
+[01:59:20.383] Server  LOG     ✓ Compiled in 46ms
+[01:59:40.609] Server  LOG     ✓ Compiled in 52ms
+[01:59:58.413] Server  LOG     ✓ Compiled in 41ms
+[02:00:17.369] Server  LOG     ✓ Compiled in 48ms
+[02:00:24.880] Server  LOG     ✓ Compiled in 30ms
+[02:00:31.800] Server  LOG     ✓ Compiled in 38ms
+[02:00:37.877] Server  LOG     ✓ Compiled in 36ms
+[02:01:50.232] Server  LOG     ✓ Compiled in 51ms
+[02:02:29.058] Server  LOG     ✓ Compiled in 285ms
+[02:07:40.426] Server  LOG     ✓ Compiled in 156ms
+[02:09:00.963] Server  LOG     ✓ Compiled in 281ms
+[02:09:01.093] Server  LOG     ✓ Compiled in 0ms
+[02:09:03.097] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
+[02:09:03.097] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
+[02:09:03.097] Browser ERROR   Failed to fetch RSC payload for http://localhost:3001/. Falling back to browser navigation. {}
