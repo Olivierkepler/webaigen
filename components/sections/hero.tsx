@@ -13,7 +13,7 @@ export function Hero() {
           </Badge>
 
           <h1 className="text-4xl font-semibold tracking-tight text-slate-900 sm:text-5xl">
-            Build faster with modern websites and practical AI automation.
+            Build faster with modern websites and practical AI automation me
           </h1>
 
           <p className="mt-4 text-lg text-slate-600">
